@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:ital,wght@1,600&display=swap');
+
+h1 {
+    font-family: 'MuseoModerno', cursive;
+    color: black;
+    letter-spacing: 5px;
+}
